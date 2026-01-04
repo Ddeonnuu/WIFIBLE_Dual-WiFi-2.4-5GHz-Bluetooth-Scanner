@@ -3,10 +3,10 @@
 WiFi 2.4 - 5 GHz + Bluetooth Scanner whit RTL8720DN BW16 - SOFTWARE SPI TOUCH VERSION!
 
 Arduino_GFX + Hardware SPI (40MHz) + Native U8g2 Fonts + English UI + Touch 
-
+--------------------------------------------------------------------------------------
 ![WiFi_BLE_Scanner_BW16_01](https://github.com/user-attachments/assets/2d5e1a6c-1596-4670-88f8-5ae5c2b7a880)
  ![WiFi_BLE_Scanner_BW16_02](https://github.com/user-attachments/assets/6bb29080-014e-47c0-a19d-84aad29400c5)
- 
+ --------------------------------------------------------------------------------------
   ULTRA FAST: 50-100x faster than Software SPI (display only)!
   - Hardware SPI @ 40MHz for Display
   - Software SPI for Touch (separate pins, no conflicts!)
@@ -16,6 +16,16 @@ Arduino_GFX + Hardware SPI (40MHz) + Native U8g2 Fonts + English UI + Touch
 
 ![WiFi_BLE_Scanner_BW16_04](https://github.com/user-attachments/assets/0d5b624b-4cc7-49b4-84a7-966727bdec98)
 
+Information of WiFi's: SSID, MAC, Channell, RSSI, Encryption and Type.
+--------------------------------------------------------------------------------------
+Information of BLE's: Name, MAC, RSSI, Manufacturer and Services.
+--------------------------------------------------------------------------------------
+All you need is...
+
+- 1pc RTL8720DN BW16
+- 1pc ST7789 Touch Screen TFT Display
+- Breadboar, some wires, tin, etc.
+--------------------------------------------------------------------------------------
   Wiring: ST7789 Touch Screen TFT Display (HARDWARE SPI):
   
  * VCC  -> 3.3V
@@ -36,8 +46,7 @@ Arduino_GFX + Hardware SPI (40MHz) + Native U8g2 Fonts + English UI + Touch
  *   T_CS  -> PA8  (pin 1)  - Touch Chip Select
  *   T_IRQ -> (NOT in use)
    
-   Display rotation: 180° (pins at TOP!)
-   Touch calibration: 90° rotated vs display
+   Display rotation: 180° (pins at TOP!). Touch calibration: 90° rotated vs display.
  
 REQUIRED LIBRARIES:
 - GFX Library for Arduino (by moononournation)
@@ -45,7 +54,7 @@ REQUIRED LIBRARIES:
 - WiFi (built-in AmebaD)
 - BLEDevice (built-in AmebaD)
 - SPI (built-in)
- * HOX: DON'T need XPT2046_Touchscreen library!
+- NO need for XPT2046_Touchscreen library!
 
-Copyright (c) 2026 Jasu-tech
+Copyright (c) 2026 Jasu-tech.
 This code is licensed under a MIT License.
