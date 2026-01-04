@@ -2,7 +2,10 @@
 
 WiFi 2.4 - 5 GHz + Bluetooth Scanner whit RTL8720DN BW16 - SOFTWARE SPI TOUCH VERSION!
 
-Arduino_GFX + Hardware SPI (40MHz) + Native U8g2 Fonts + English UI + Touch
+Arduino_GFX + Hardware SPI (40MHz) + Native U8g2 Fonts + English UI + Touch 
+
+![WiFi_BLE_Scanner_BW16_01](https://github.com/user-attachments/assets/2d5e1a6c-1596-4670-88f8-5ae5c2b7a880)
+ ![WiFi_BLE_Scanner_BW16_02](https://github.com/user-attachments/assets/6bb29080-014e-47c0-a19d-84aad29400c5)
  
   ULTRA FAST: 50-100x faster than Software SPI (display only)!
   - Hardware SPI @ 40MHz for Display
@@ -10,7 +13,7 @@ Arduino_GFX + Hardware SPI (40MHz) + Native U8g2 Fonts + English UI + Touch
   - Arduino_GFX_Library (optimation to AmebaD)
   - Native U8g2 font support
   - XPT2046 Touch Screen (resistive, manual Software SPI)
-   
+
   Wiring: ST7789 Touch Screen TFT Display (HARDWARE SPI):
   
  * VCC  -> 3.3V
