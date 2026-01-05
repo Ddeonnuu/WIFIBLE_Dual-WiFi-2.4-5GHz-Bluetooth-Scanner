@@ -59,6 +59,8 @@ REQUIRED LIBRARIES:
 - BLEDevice (built-in AmebaD)
 - SPI (built-in)
 - NO need for XPT2046_Touchscreen library!
+  
+![setups](https://github.com/user-attachments/assets/8271bb12-2430-4e53-8e96-1c8e13d35ef0)
 
 Copyright (c) 2026 Jasu-tech.
 This code is licensed under a MIT License.
