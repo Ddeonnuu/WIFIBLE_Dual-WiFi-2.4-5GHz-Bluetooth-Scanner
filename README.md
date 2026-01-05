@@ -30,7 +30,7 @@ All you need is...
 - Breadboar, some wires, tin, etc.
 - Upload the code!
 --------------------------------------------------------------------------------------
-  Wiring: ST7789 Touch Screen TFT Display (HARDWARE SPI):
+  Wireing: ST7789 Touch Screen TFT Display (HARDWARE SPI):
   
  * VCC  -> 3.3V
  *   GND  -> GND
