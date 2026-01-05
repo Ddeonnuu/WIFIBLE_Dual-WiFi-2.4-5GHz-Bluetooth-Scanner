@@ -21,6 +21,8 @@ Information of WiFi's: SSID, MAC, Channell, RSSI, Encryption and Type.
 --------------------------------------------------------------------------------------
 Information of BLE's: Name, MAC, RSSI, Manufacturer and Services.
 --------------------------------------------------------------------------------------
+https://youtube.com/shorts/M9hm-O5ig3Q?si=EHbEPWshkxLC7cys
+
 All you need is...
 
 - 1pc RTL8720DN BW16
