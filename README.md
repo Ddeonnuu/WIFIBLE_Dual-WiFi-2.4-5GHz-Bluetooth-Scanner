@@ -28,7 +28,7 @@ All you need is...
 - 1pc RTL8720DN BW16
 - 1pc ST7789 Touch Screen TFT Display
 - Breadboar, some wires, tin, etc.
-- Upload the code!
+- Upload the code & SCANN!
 --------------------------------------------------------------------------------------
   Wiring: ST7789 Touch Screen TFT Display (HARDWARE SPI):
   
